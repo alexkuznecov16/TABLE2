@@ -1,0 +1,118 @@
+.football tr {
+    border: 2px solid black;
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid maroon; /* Параметры рамки */
+    text-align: center; /* Выравнивание по центру */
+}
+
+
+
+.football th{
+    margin-right: 10px;
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid maroon; /* Параметры рамки */
+    text-align: center; /* Выравнивание по центру */
+}
+
+.football td{
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid maroon; /* Параметры рамки */
+    text-align: center; /* Выравнивание по центру */
+}
+
+.gold {
+    background-color: gold;
+}
+
+.silver {
+    background-color: silver;
+}
+
+.bronze {
+    background-color: brown;
+}
+
+.eurocups {
+    background-color: greenyellow;
+}
+
+
+
+.departure {
+    background-color: red;
+}
+
+.surv-play_off {
+    background-color: orangered;
+}
+
+
+
+
+.valmierafc_table:before {
+    content: "1";
+    margin-right: 10px;
+}
+
+.rigafc_table:before {
+    content: "2";
+    margin-right: 10px;
+}
+
+.rfsfc_table:before {
+    content: "3";
+    margin-right: 10px;
+}
+
+.liepajafc_table:before {
+    content: "4";
+    margin-right: 10px;
+}
+
+.audafc_table:before {
+    content: "5";
+    margin-right: 10px;
+}
+.tukumsfc_table:before {
+    content: "6";
+    margin-right: 10px;
+}
+.daugavpilsfc_table:before {
+    content: "7";
+    margin-right: 10px;
+}
+.mettafc_table:before {
+    content: "8";
+    margin-right: 10px;
+}
+
+.spartaksfc_table:before {
+    content: "9";
+    margin-right: 10px;
+}
+
+.supernovafc_table:before {
+    content: "10";
+    margin-right: 10px;
+}
+
+
+table img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+
+.school th {
+    margin-right: 10px;
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid rgb(101, 9, 9); /* Параметры рамки */
+    text-align: center; /* Выравнивание по центру */
+}
+
+.school td {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid maroon; /* Параметры рамки */
+    text-align: center; /* Выравнивание по центру */
+}
